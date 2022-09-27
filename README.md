@@ -1,3 +1,3 @@
 # Actual_prework
-Hello, Good day to anyone reading this. The three folder inside that one folder represents every day of prework.
-*Except for Day 3 whcih has both Day 3 and Day 4 assignment on the same lines of code.
+Hello, This is Bruce Jimenez's prework. The Repository has from Assignment from Day 1 to Day 4.
+*Both Day 3 and Day 4 assignment are on the same lines of code/folder name: Homework3.
